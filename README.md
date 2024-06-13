@@ -2,7 +2,7 @@
 **Hi there 👋 I'm Pedro!**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Descrição do GIF">
 
-## Minhas Skills
+## My Skills
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Graduated in Systems Analysis and Development.
@@ -29,14 +29,14 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=p3dro1oo&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3dro1oo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3dro1oo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api?username=p&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
